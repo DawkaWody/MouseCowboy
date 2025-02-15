@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: DuelEnd Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: DuelEnd
+  m_TableCollectionNameGuidString: 3cc7d68034ea9684fb12b8981ca371c6
+  m_Entries:
+  - m_Id: 30776954880
+    m_Key: Winner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138537013248
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3704642188314935300
+  references:
+    version: 2
+    RefIds:
+    - rid: 3704642188314935300
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1718970386426

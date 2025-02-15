@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: DuelMenu
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 1efe6e0dc86d5c940a8160de0256a2e5, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: be7bb75d87d1f9b4e81cfc30807e67e5, type: 2}
+  - {fileID: 11400000, guid: e62ace5ea42bc524c9ffbc5cc5220e6c, type: 2}
+  - {fileID: 11400000, guid: 22041b0f21c42554aa3e96d107bc7875, type: 2}
+  - {fileID: 11400000, guid: 5fa48883ce198af41af9cedb4f6df5a8, type: 2}
+  - {fileID: 11400000, guid: 87e62e5cc6dd6c7418e8790bbfff54a5, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []
